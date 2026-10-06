@@ -1,0 +1,5 @@
+# Screenshots
+
+This folder contains evidence screenshots collected during the authorized Web Application Security Review.
+
+The evidence includes reconnaissance, service enumeration, Burp Suite traffic analysis, authentication testing, session review, Nikto enumeration, Gobuster enumeration, XSS testing, and SQL Injection testing.
