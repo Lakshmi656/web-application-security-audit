@@ -7,9 +7,9 @@ The assessment focuses on identifying common web application and web server secu
 
 The project was performed using Kali Linux, DVWA, Metasploitable 2, VMware Workstation, Nmap, Burp Suite, Nikto, and Gobuster.
 
-⚠️ Disclaimer: This project was conducted only against an intentionally vulnerable laboratory environment owned/authorized for security testing. No unauthorized systems or public websites were tested.
+ Disclaimer: This project was conducted only against an intentionally vulnerable laboratory environment owned/authorized for security testing. No unauthorized systems or public websites were tested.
 
-🎯 Project Objectives
+ Project Objectives
 
 The main objectives of this project were:
 
@@ -24,7 +24,7 @@ Map security findings to the OWASP Top 10.
 Assess the likelihood and business impact of identified risks.
 Provide practical security recommendations.
 Prepare a professional web security audit report.
-🧪 Lab Environment
+ Lab Environment
 Component	Details
 Operating System	Kali Linux
 Target System	Metasploitable 2
@@ -485,4 +485,4 @@ B.Tech – Cybersecurity
 
 Aspiring Cybersecurity Engineer | Web Application Security | VAPT | Digital Forensics
 
-⭐ If you find this project useful for learning web application security, feel free to explore the documentation and testing methodology.
+
